@@ -33,7 +33,7 @@ const [data, setData] = useState({
     }
   }
   return (
-    <div className='w-full h-[100vh] bg-gray-600 pt-20 text-white'>
+    <div className='w-full h-[100vh] bg-gray-400 pt-20 text-white'>
       <div className='flex flex-col w-[50%] mx-auto border-orange-600 border items-center'>
         <h1 className='text-3xl underline pt-10 pb-5'>SIGNUP</h1>
       <form className='flex flex-col w-full p-5 gap-5' onSubmit={registerUser}>
