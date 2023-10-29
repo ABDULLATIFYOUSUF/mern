@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div className='bg-gray-400'>
+    <div className='bg-gray-500'>
       <h1 className='flex justify-center items-center w-full h-[100vh] text-3xl text-lime-900 underline'>
       Home Page Under Contruction
 
